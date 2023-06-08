@@ -11,8 +11,8 @@ def main():
 
     end = False
     winner = ""
-    displayX = 730
-    displayY = 1000
+    displayX = 800
+    displayY = 900
 
     speed = 0.1
 
